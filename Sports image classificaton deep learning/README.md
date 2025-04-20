@@ -7,7 +7,7 @@ Deep learning model that classifies images into 100 sports categories with **98%
 - **Model**: Transfer learning with EfficientNetB0
 - **Data**: 13K+ images with augmentation
 - **Performance**: 98% test accuracy
-- **Deployment**: SavedModel/TFLite ready
+
 
 ## Dataset link 
 https://www.kaggle.com/datasets/gpiosenka/sports-classification/data
